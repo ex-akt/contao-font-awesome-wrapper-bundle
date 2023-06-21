@@ -3,9 +3,9 @@
 declare(strict_types=1);
 
 /*
- * This file is part of [package name].
+ * This file is part of ex-akt/contao-font-awesome-wrapper-bundle.
  *
- * (c) John Doe
+ * (c) ex-akt
  *
  * @license LGPL-3.0-or-later
  */
@@ -22,7 +22,7 @@ class ContaoFontAwesomeWrapperBundle extends Bundle
         return \dirname(__DIR__);
     }
 
-    public function getContainerExtension(): ContaoFontAwesomeWrapperExtensionExtension
+    public function getContainerExtension(): ContaoFontAwesomeWrapperExtension
     {
         return new ContaoFontAwesomeWrapperExtension();
     }

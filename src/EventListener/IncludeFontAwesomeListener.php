@@ -3,9 +3,9 @@
 declare(strict_types=1);
 
 /*
- * This file is part of the ex-akt/contao-style-bricks-bundle.
+ * This file is part of ex-akt/contao-font-awesome-wrapper-bundle.
  *
- * (c) ex-akt <https://github.com/ex-akt>
+ * (c) ex-akt
  *
  * @license LGPL-3.0-or-later
  */
