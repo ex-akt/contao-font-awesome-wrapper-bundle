@@ -17,9 +17,6 @@
     "require": {
         "php": "^8.0",
         "contao/core-bundle": "^4.13 || ^5.1",
-        "symfony/config": "^6.4 || ^7.0",
-        "symfony/dependency-injection": "^6.4 || ^7.0",
-        "symfony/http-kernel": "^6.4 || ^7.0",
         "netzmacht/contao-font-awesome-inserttag": "^2.0",
         "markocupic/contao-component-fontawesome-free": "^6.2"
     },
